@@ -1,29 +1,12 @@
+The user got to escape the monster from being tagged, if you're tagged you'll be frozen and throughout the game you'll have allie monster that'll help you. throughout the game there'll be a guns power ups that when you shoot you'll freeze everything around upset yourself, when you shoot the monster will be pushed back, when shot at a monster the monster will automatically become your allie, a teleporter gun that when shot you'll be teleported out from danger, and when you're against a large group of monster and when you shoot at them they will be magnetise together. there'll also be 5 moves sets power ups that'll make you jump super high, that'll make you run fast, that'll make you phase through the enemy or objects in the game, that'll make you be able to walk on the ceiling, and that'll make you invisible. You'll have 3 lifes in the games. 
+In the game the player will start off without a weapon and throughout the game you'll have to collect your special powerups/guns meanwhile dodging the enemy to not be tagged
 
-This is the complete source code for Quake 2, version 3.19, buildable with
-visual C++ 6.0.  The linux version should be buildable, but we haven't
-tested it for the release.
+- freeze tag mechanics   
 
-The code is all licensed under the terms of the GPL (gnu public license).  
-You should read the entire license, but the gist of it is that you can do 
-anything you want with the code, including sell your new version.  The catch 
-is that if you distribute new binary versions, you are required to make the 
-entire source code available for free to everyone.
+- make an allie monster
 
-The primary intent of this release is for entertainment and educational 
-purposes, but the GPL does allow commercial exploitation if you obey the 
-full license.  If you want to do something commercial and you just can't bear 
-to have your source changes released, we could still negotiate a separate 
-license agreement (for $$$), but I would encourage you to just live with the 
-GPL.
+- give 5 power ups
 
-All of the Q2 data files remain copyrighted and licensed under the 
-original terms, so you cannot redistribute data from the original game, but if 
-you do a true total conversion, you can create a standalone game based on 
-this code.
+- remove weapons and 5 moves
 
-Thanks to Robert Duffy for doing the grunt work of building this release.
-
-John Carmack
-Id Software
-
-
+- lifes system
